@@ -115,7 +115,7 @@ nnoremap <leader>s4 :setlocal shiftwidth=4 softtabstop=4 tabstop=4 expandtab <CR
 nnoremap <leader>d oimport pdb; pdb.set_trace()<CR><ESC>
 
 " who put this here
-imap jj <ESC>
+imap jk <ESC>
 
 " Faster jumps.
 map <C-J> 5j
