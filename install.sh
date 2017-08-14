@@ -24,7 +24,7 @@ backup "$HOME/.vimrc" "f"
 backup "$HOME/.vim" "d"
 
 echo "Cloning the required files."
-git clone https://github.com/bradyz/dot-files.git ~/.vim/ > /dev/null 2>&1
+git clone https://github.com/dillond/dot-files.git ~/.vim/ > /dev/null 2>&1
 
 echo "Installing plugins..."
 cd ~/.vim/
